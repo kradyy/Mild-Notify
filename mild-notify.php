@@ -4,7 +4,7 @@
  * Version: 1.0.0
  * Plugin URI: https://www.mildmedia.se
  * Description: Visar en övre eller undre ruta (topbar) till din hemsida.
- * Author: Mild Media
+ * Author: Mild Media AB
  * Author URI: https://www.mildmedia.se
  * Requires at least: 4.0
  * Tested up to: 4.0
