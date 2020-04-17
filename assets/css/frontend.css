@@ -1,0 +1,13 @@
+#mildNotify-bar {
+	position: relative;
+    width: 100%;
+	padding: 10px;
+	z-index: 900;
+
+    color: #fff;
+	background: #000;
+}
+
+#mildNotify-bar p {
+	margin: 0;
+}
